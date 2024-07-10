@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569233863832",
+    "project_id": "pollybee-f9dba",
+    "storage_bucket": "pollybee-f9dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569233863832:android:f625f42c0fb9c5a657cced",
+        "android_client_info": {
+          "package_name": "com.example.cameraxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9-GM2JCMK_TDUp4mc7WmL4QQdXCAKYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
