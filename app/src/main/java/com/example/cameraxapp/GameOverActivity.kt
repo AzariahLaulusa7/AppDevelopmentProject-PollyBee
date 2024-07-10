@@ -1,3 +1,4 @@
+// Copyright 2024 Azariah Laulusa
 package com.example.cameraxapp
 
 import android.content.ContentValues.TAG
